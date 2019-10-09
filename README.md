@@ -1,2 +1,2 @@
-# sudokuCNN
-solve the sudoku from image
+# SudokuSolver
+Solving sudoku puzzles using logic and python data structures
